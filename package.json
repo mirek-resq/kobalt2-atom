@@ -1,0 +1,18 @@
+{
+  "name": "Kobalt2-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "An Atom theme based cobalt2 from Wesbos.",
+  "repository": "https://github.com/atranel/kobalt2-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13 <2.0.0"
+  },
+  "keywords": [
+    "cobalt",
+    "kobalt",
+    "cobalt2",
+    "syntax",
+    "theme"
+  ]
+}
