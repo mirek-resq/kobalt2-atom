@@ -2,7 +2,7 @@
   "name": "kobalt2-syntax",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "A dark theme for syntax",
+  "description": "A blue cobalt dark theme for syntax based on Cobalt2 from wesbos",
   "repository": "https://github.com/atranel/kobalt2-atom.git",
   "license": "MIT",
   "engines": {
