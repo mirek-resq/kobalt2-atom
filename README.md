@@ -1,6 +1,6 @@
 # Kobalt2 Syntax for Atom
 
-Theme is heavily based on Cobalt2-Atom from wesbos!
+Theme is a fork of Cobalt2-Atom theme from wesbos!
 I changed some colors and removed unnecessary hardly-visible backgrounds.
 
 An Atom syntax theme based on our old blue friend cobalt. A refined colour scheme that is easy on the eyes.
