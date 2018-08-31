@@ -3,7 +3,7 @@
 Theme is a fork of Cobalt2-Atom theme from wesbos!
 I changed some colors and removed unnecessary hardly-visible backgrounds.
 
-An Atom syntax theme based on our old blue friend cobalt. A refined colour scheme that is easy on the eyes.
+An Atom syntax theme based on blue cobalt theme. A refined colour scheme that is easy on the eyes.
 
 Pairs well with built-in One Dark UI Theme.
 
