@@ -1,2 +1,2 @@
-## 0.4.1
+## 0.4.2
 Small color changes and new screenshots
